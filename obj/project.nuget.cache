@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9CjE5avJX/AF2uKaExuAB1dijeQayKPWxfkw35tHGmhVBVOTEHEhLRV9FZVlXdoGeHtM9eE2xcATVg6C/oj3IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiach\\source\\repos\\FingerPrint\\FingerPrint\\FingerPrint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiach\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512"
+  ],
+  "logs": []
+}

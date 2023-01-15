@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FingerPrint/1.0.0": {
+        "dependencies": {
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.28"
+        },
+        "runtime": {
+          "FingerPrint.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.28": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.19041.24",
+            "fileVersion": "10.0.19041.28"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.1.40881"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FingerPrint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.28": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
